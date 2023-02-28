@@ -5,7 +5,7 @@ import { createProPlugin, toggle } from "@formkit/pro";
 import { generateClasses } from "@formkit/themes";
 import { DefaultConfigOptions } from "@formkit/vue";
 
-import formkitTheme from "./formkitTheme.ts";
+import formkitTheme from "./formkitTheme";
 
 const runtimeConfig = useRuntimeConfig();
 
