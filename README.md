@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# @tituskirch/example-nuxt3-formkit-app
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+An example of a nuxt 3 and formkit application. Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
 
