@@ -1,0 +1,24 @@
+{
+  "name": "@tituskirch/example-nuxt3-formkit-app",
+  "description": "An example of a nuxt 3 and formkit application.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.4.1",
+    "@types/node": "^18.14.2",
+    "nuxt": "^3.2.3"
+  },
+  "dependencies": {
+    "@formkit/icons": "1.0.0-beta.15",
+    "@formkit/nuxt": "1.0.0-beta.15",
+    "@formkit/pro": "1.0.0-alpha.76",
+    "@formkit/themes": "1.0.0-beta.15"
+  }
+}

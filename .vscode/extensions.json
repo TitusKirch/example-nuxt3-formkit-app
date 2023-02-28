@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "vue.volar",
+    "esbenp.prettier-vscode",
+    "mike-co.import-sorter",
+    "bradlc.vscode-tailwindcss",
+    "bierner.markdown-mermaid",
+    "davidanson.vscode-markdownlint",
+    "redhat.vscode-yaml",
+    "Gruntfuggly.todo-tree",
+    "richie5um2.vscode-sort-json"
+  ]
+}
